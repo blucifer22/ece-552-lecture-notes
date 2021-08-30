@@ -2,5 +2,8 @@
     "cSpell.words": [
         "Neumann",
         "datatypes"
-    ]
+    ],
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
